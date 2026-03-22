@@ -18,4 +18,4 @@ The workflow includes data preprocessing, handling imbalanced data, model traini
 
 The final system predicts whether an applicant is safe or risky, helping financial institutions improve efficiency and reduce financial losses.
 
-**Full synopsis is available in the file: synopsis.docx**
+**Full synopsis is available in the file: Synopsis PBL  phase-1 AI-ML.docx**
