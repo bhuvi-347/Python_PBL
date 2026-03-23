@@ -1,13 +1,10 @@
 Title:
-
 Automated Credit Risk Categorization for Loan Approval
 
 Objective:
-
 To develop a machine learning-based system that automatically evaluates loan applicants and classifies them into safe or risky categories, helping financial institutions make faster and more accurate loan approval decisions.
 
 Problem Statement:
-
 Manual evaluation of loan applications is time-consuming and prone to human error. Incorrect decisions can lead to financial losses due to loan defaults. Therefore, there is a need for an automated system that can efficiently analyze applicant data and predict credit risk.
 
 Methodology / Approach:
@@ -20,10 +17,9 @@ Tools & Technologies Used
 Programming Language: Python
 Platform: Jupyter Notebook
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Expected Outcome
 
+Expected Outcome:
 A reliable system that can predict credit risk accurately, reduce manual effort, and assist in making better loan approval decisions.
-
 Evaluation Metrics
 Precision
 Recall
