@@ -1,21 +1,37 @@
-# Phase 1
+Title:
 
-## Project Title:
 Automated Credit Risk Categorization for Loan Approval
 
-## Problem Statement:
-Financial institutions receive a large number of loan applications daily, making manual evaluation time-consuming and error-prone. Approving loans to high-risk applicants can lead to financial losses due to defaults. Therefore, there is a need for an automated system to efficiently assess credit risk and support loan approval decisions.
+Objective:
 
-## Objective:
-- To develop a Machine Learning model that classifies loan applicants as safe or risky  
-- To analyze financial features such as credit score, income, and debt-to-income ratio  
-- To improve decision-making and reduce risk in loan approvals  
+To develop a machine learning-based system that automatically evaluates loan applicants and classifies them into safe or risky categories, helping financial institutions make faster and more accurate loan approval decisions.
 
-## Synopsis:
-This project focuses on building a Machine Learning-based system to automatically categorize loan applicants based on credit risk. The system uses Logistic Regression to analyze applicant data such as credit score, annual income, and debt-to-income ratio.
+Problem Statement:
 
-The workflow includes data preprocessing, handling imbalanced data, model training, and evaluation using metrics like precision, recall, and F1-score. Visualization techniques such as confusion matrix and bar graphs are also used to analyze model performance.
+Manual evaluation of loan applications is time-consuming and prone to human error. Incorrect decisions can lead to financial losses due to loan defaults. Therefore, there is a need for an automated system that can efficiently analyze applicant data and predict credit risk.
 
-The final system predicts whether an applicant is safe or risky, helping financial institutions improve efficiency and reduce financial losses.
+Methodology / Approach:
+Applicant Profiling: Analyze dataset and identify key features like credit score, income, and debt ratio.
+Data Preprocessing: Clean and prepare data for model training.
+Data Balancing: Handle imbalanced dataset using data augmentation techniques.
+Model Building: Use Logistic Regression to classify applicants.
+Evaluation: Assess model using precision, recall, F1-score, and confusion matrix.
+Tools & Technologies Used
+Programming Language: Python
+Platform: Jupyter Notebook
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Expected Outcome
 
-**Full synopsis is available in the file: Synopsis PBL  phase-1 AI-ML.docx**
+A reliable system that can predict credit risk accurately, reduce manual effort, and assist in making better loan approval decisions.
+
+Evaluation Metrics
+Precision
+Recall
+F1-Score
+Confusion Matrix
+Applications
+Banks and financial institutions
+Loan approval systems
+Risk management systems
+
+**Full synopsis is available in the file: Synopsis.docx**
