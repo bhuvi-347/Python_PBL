@@ -20,14 +20,14 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 Expected Outcome:
 A reliable system that can predict credit risk accurately, reduce manual effort, and assist in making better loan approval decisions.
-Evaluation Metrics
-Precision
-Recall
-F1-Score
-Confusion Matrix
-Applications
-Banks and financial institutions
-Loan approval systems
+Evaluation Metrics, 
+Precision, 
+Recall, 
+F1-Score, 
+Confusion Matrix, 
+Applications, 
+Banks and financial institutions, 
+Loan approval systems, 
 Risk management systems
 
 **Full synopsis is available in the file: Synopsis.docx**
